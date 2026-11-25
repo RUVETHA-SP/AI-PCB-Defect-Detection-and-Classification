@@ -36,6 +36,32 @@ The main objectives of this project are:
 - Display detected defects with bounding boxes and labels.
 - Generate annotated output images and prediction logs.
 _________________________________________________________________________________________________________________________________________________________
+ 🧠 Model Training and Performance
+
+The system uses **EfficientNetB0**, a transfer learning-based deep learning architecture, for PCB defect classification.
+
+The model was trained and evaluated using a PCB defect image dataset.
+
+Evaluation Results
+
+| Metric | Result |
+|---|---:|
+| Test Accuracy | 96.30% |
+| Test Loss | 0.0982 |
+| Test Samples | 460 |
+
+PCB Defect Categories
+
+The model classifies six types of PCB defects:
+
+- Missing Hole
+- Mouse Bite
+- Open Circuit
+- Short
+- Spur
+- Spurious Copper
+
+ Evaluation Outputs
 
 - Classification Report
 - Confusion Matrix
