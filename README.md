@@ -68,3 +68,20 @@ The model classifies six types of PCB defects:
 - Class-wise Precision, Recall and F1-score
 
 **Note:** The reported accuracy represents the model's test-set classification performance.
+
+___________________________________________________________________________________________________________________________________________________________________
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Python | Core programming language |
+| OpenCV | Image processing and defect extraction |
+| TensorFlow | Deep learning model development |
+| EfficientNetB0 | Transfer learning-based defect classification |
+| NumPy | Numerical operations and image array processing |
+| DeepPCB | PCB defect image dataset |
+
+### Development Tools
+- Visual Studio Code
+- Python Virtual Environment
+- Git and GitHub
