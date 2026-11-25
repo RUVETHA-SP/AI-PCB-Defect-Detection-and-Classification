@@ -23,7 +23,7 @@ The objective of this project is to develop an AI-based system that can:
 •  Reduce dependence on manual visual inspection
 
 •  Provide consistent inspection results
-_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________     
 🚀 Project Objectives
 
 The main objectives of this project are:
@@ -35,7 +35,7 @@ The main objectives of this project are:
 - Develop a user-friendly web interface for PCB inspection.
 - Display detected defects with bounding boxes and labels.
 - Generate annotated output images and prediction logs.
-____________________________________________________________________________________________________________________________________________________________________  ## 🧠 Model Training and Performance
+________________________________________________________________________________________________________________________________________________________________ 🧠Model Training and Performance
 
 The system uses **EfficientNetB0**, a transfer learning-based deep learning architecture, for PCB defect classification.
 
